@@ -48,7 +48,7 @@
     "@testing-library/react": "11.2.7",
     "@types/highlight.js": "9.12.4",
     "@types/jest": "26.0.24",
-    "@types/marked": "1.2.2",
+    "@types/marked": "2.0.4",
     "@types/node": "13.13.52",
     "@types/react": "16.14.11",
     "@types/sanitize-html": "1.27.2",
