@@ -51,7 +51,7 @@
     "@types/marked": "1.2.2",
     "@types/node": "13.13.52",
     "@types/react": "16.14.21",
-    "@types/sanitize-html": "1.27.2",
+    "@types/sanitize-html": "2.16.0",
     "@types/testing-library__react": "10.2.0",
     "@typescript-eslint/eslint-plugin": "4.33.0",
     "@typescript-eslint/parser": "4.33.0",
