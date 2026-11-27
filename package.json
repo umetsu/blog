@@ -31,7 +31,7 @@
   "dependencies": {
     "@material-ui/core": "4.12.4",
     "graphql": "15.8.0",
-    "graphql-tag": "2.12.6",
+    "graphql-tag": "2.12.7",
     "highlight.js": "10.7.3",
     "marked": "1.2.9",
     "next": "9.5.5",
